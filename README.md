@@ -26,6 +26,7 @@ I also work as an indie game developer making games and applications using Godot
 <a href="https://instagram.com/yousefasal12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.linkedin.com/in/yousefasal/" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Asal&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yousef-Asal&show_icons=true" alt="yousef-asal" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com/?user=Yousef-Asal" alt="yousef-asal" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Yousef-Asal)  
+
