@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Asal</h1>
 <h3 align="center">Robotics Engineer | Game Developer</h3>
-
 <img align="right" alt="Coding" width="400" src="https://github.com/Yousef-Asal/Yousef-Asal/blob/main/image_processing20210910-12013-183nsgw.gif" >
-
 I am a Mechatronics student passionate about Robotics and autonomous systems. 
 I also work as an indie game developer making games and applications using Godot engine. 
 
