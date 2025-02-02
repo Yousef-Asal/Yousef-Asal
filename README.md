@@ -13,10 +13,11 @@ I also work as an indie game developer making games and applications using Godot
 ### Skills and Tools 
 
 * 🤖 SLAM, ROS, Rviz
-* 🎮 Godot Engine, GD Script  
+* 🎮 Godot Engine, GD Script
+* 📱 Mobile application, Cloud computing
 * 👨‍💻 Python, C++
 * 💻 Linux, Git, Docker
-* 🎨 Photoshop, Illustrator
+* 🎨 Photoshop, Illustrator, Figma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
